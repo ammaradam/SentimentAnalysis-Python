@@ -5,3 +5,5 @@ Sentiment Analysis is "the process of computationally identifying and categorizi
 
 In this project, we will do basic Sentiment Analysis, using Python, in Jupyter, based on Twitter feeds, to identify the sentiments related to "Fried Chicken".
 
+HOW:
+1) Run "Sentiment Analysis.ipynb" in Jupyter Notebook
